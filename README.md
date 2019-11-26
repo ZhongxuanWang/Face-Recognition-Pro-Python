@@ -8,6 +8,6 @@ You can implement it on a registration system.
 <br>
 Packets Needed:
 <br>
-<code>pip3 install face_recognition</code>
-<code>pip3 install numpy</code>
-<code>pip3 install opencv-python</code>
+<code>pip3 install face_recognition</code><br>
+<code>pip3 install numpy</code><br>
+<code>pip3 install opencv-python</code><br>
