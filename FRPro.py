@@ -6,11 +6,6 @@ from random import random
 import numpy as np
 
 
-'''
-Any changes made will ruin the app. If you still want to use it, don't do anything
-'''
-
-
 def get_data_face():
     # Face encoding data & Data name
     get_data_face.data_face_encodings = []
